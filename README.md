@@ -105,7 +105,8 @@ Logs go to stderr. For Claude Desktop on macOS: `~/Library/Logs/Claude`.
 
 Issues and PRs are **welcome** — that's the point of keeping this alive. If Spotify changes
 the API again, or you hit a bug, open an issue with what you ran and the error. Small,
-focused PRs are easiest to review.
+focused PRs are easiest to review. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for a
+beginner-friendly walkthrough.
 
 ---
 
