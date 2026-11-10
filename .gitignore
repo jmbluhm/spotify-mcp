@@ -1,0 +1,19 @@
+# Python / build
+.venv/
+__pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
+
+# OS
+.DS_Store
+
+# Secrets & tokens — NEVER commit these
+.env
+.env.*
+.spotify-mcp-token.json
+.spotify-mcp-token.json*
+*.bak
+*.bak.*
+.cache
